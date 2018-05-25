@@ -1,0 +1,18 @@
+version: '3'
+services:
+  test_scraping_github:
+    image: quotes_quotes
+    command: py.test src/tests.py -q
+    volumes:
+      - .:/scraping-github
+
+  scraping_github:
+    build: .
+    restart: on-failure
+    command: scrapy runspider src/run.py 
+    volumes:
+      - .:/scraping-github
+    ports:
+      - "8000:8000"
+    depends_on:
+      - test_scraping_github
