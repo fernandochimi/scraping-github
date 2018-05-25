@@ -11,8 +11,6 @@ Check if you have a Git in your machine. If don't, please install [Git](https://
 2. Run `make execute` to build and run the application
 3. Go! :rocket:
 
-PS: The file `api_env` is for environment values from the application. Contains the URL for api.
-
 ## `Makefile` tips
 * `make execute` - This command will execute the following commands:
 	* `sudo chown -R $(USER):$(USER) .` - Attribute permisions to this directory for manipulating files of project.

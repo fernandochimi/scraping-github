@@ -6,8 +6,10 @@ RUN echo http://mirror.yandex.ru/mirrors/alpine/v3.4/main > /etc/apk/repositorie
 RUN apk update && \
 	apk add git \
 	build-base \
-	tzdata \
-	sqlite
+	libffi-dev \
+	libxslt-dev \
+	openssl-dev \
+	tzdata
 
 RUN echo "America/Sao_Paulo" > /etc/timezone
 
