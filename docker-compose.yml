@@ -9,7 +9,7 @@ services:
   scraping_github:
     build: .
     restart: on-failure
-    command: scrapy runspider src/run.py
+    command: scrapy crawl scraping_github -o scraping_github.json
     volumes:
       - .:/scraping-github
     ports:

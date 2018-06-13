@@ -1,0 +1,37 @@
+[
+{"file": "Dockerfile", "lines": "22 lines (14 sloc)", "bytes": "438 Bytes"},
+{"file": "requirements.txt", "lines": "9 lines (8 sloc)", "bytes": "131 Bytes"},
+{"file": "docker-compose.yml", "lines": "29 lines (26 sloc)", "bytes": "555 Bytes"},
+{"file": "api_env", "lines": "1 lines (1 sloc)", "bytes": "82 Bytes"},
+{"file": "setup.py", "lines": "12 lines (9 sloc)", "bytes": "210 Bytes"},
+{"file": "README.md", "lines": "26 lines (19 sloc)", "bytes": "1.19 KB"},
+{"file": "Makefile", "lines": "27 lines (21 sloc)", "bytes": "348 Bytes"},
+{"file": "dev.ini", "lines": "35 lines (26 sloc)", "bytes": "517 Bytes"},
+{"file": ".gitignore", "lines": "76 lines (62 sloc)", "bytes": "704 Bytes"}
+][
+{"file": "Dockerfile", "lines": "22 lines (14 sloc)", "bytes": "438 Bytes"},
+{"file": "Makefile", "lines": "27 lines (21 sloc)", "bytes": "348 Bytes"},
+{"file": "dev.ini", "lines": "35 lines (26 sloc)", "bytes": "517 Bytes"},
+{"file": "setup.py", "lines": "12 lines (9 sloc)", "bytes": "210 Bytes"},
+{"file": "api_env", "lines": "1 lines (1 sloc)", "bytes": "82 Bytes"},
+{"file": "requirements.txt", "lines": "9 lines (8 sloc)", "bytes": "131 Bytes"},
+{"file": "docker-compose.yml", "lines": "29 lines (26 sloc)", "bytes": "555 Bytes"},
+{"file": "README.md", "lines": "26 lines (19 sloc)", "bytes": "1.19 KB"},
+{"file": ".gitignore", "lines": "76 lines (62 sloc)", "bytes": "704 Bytes"}
+][
+{"file": "Dockerfile", "lines": "22 lines (14 sloc)", "bytes": "438 Bytes"},
+{"file": "dev.ini", "lines": "35 lines (26 sloc)", "bytes": "517 Bytes"},
+{"file": "setup.py", "lines": "12 lines (9 sloc)", "bytes": "210 Bytes"},
+{"file": "Makefile", "lines": "27 lines (21 sloc)", "bytes": "348 Bytes"},
+{"file": "docker-compose.yml", "lines": "29 lines (26 sloc)", "bytes": "555 Bytes"},
+{"file": "api_env", "lines": "1 lines (1 sloc)", "bytes": "82 Bytes"},
+{"file": "README.md", "lines": "26 lines (19 sloc)", "bytes": "1.19 KB"},
+{"file": "requirements.txt", "lines": "9 lines (8 sloc)", "bytes": "131 Bytes"},
+{"file": ".gitignore", "lines": "76 lines (62 sloc)", "bytes": "704 Bytes"},
+{"file": "__init__.py", "lines": "27 lines (21 sloc)", "bytes": "856 Bytes"},
+{"file": "utils.py", "lines": "20 lines (15 sloc)", "bytes": "467 Bytes"},
+{"file": "engine.py", "lines": "27 lines (20 sloc)", "bytes": "635 Bytes"},
+{"file": "models.py", "lines": "50 lines (35 sloc)", "bytes": "1.26 KB"},
+{"file": "tests.py", "lines": "81 lines (65 sloc)", "bytes": "2.52 KB"},
+{"file": "views.py", "lines": "73 lines (57 sloc)", "bytes": "2.18 KB"}
+]
