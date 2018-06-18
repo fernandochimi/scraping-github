@@ -4,8 +4,7 @@ import scrapy
 class QuotesSpider(scrapy.Spider):
     name = "scraping_github"
     start_urls = [
-        'https://github.com/fernandochimi/quotes',
-        # 'https://github.com/fernandochimi/medical-appointment'
+        'https://github.com/fernandochimi/medical-appointment'
     ]
 
     def parse(self, response):
