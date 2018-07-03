@@ -74,3 +74,4 @@ staticfiles/
 *.log
 logs/
 .cache
+*.json
